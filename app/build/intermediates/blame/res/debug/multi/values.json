@@ -1,0 +1,1675 @@
+[
+    {
+        "outputFile": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 58,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 49,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 49,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 36,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 36,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 35,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 35,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 51,
+                    "endOffset": 284
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 51,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 289,
+                    "endColumn": 53,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 53,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 51,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endColumn": 51,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 36,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 36,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 48,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 48,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 49,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 49,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 58,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 58,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 50,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 50,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 34,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 34,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endColumn": 43,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 43,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 36,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 36,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1161,
+                    "endColumn": 38,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 577,
+                        "endColumn": 38,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endColumn": 46,
+                    "endOffset": 1242
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 46,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1247,
+                    "endColumn": 40,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 40,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endColumn": 44,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 40,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 40,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 43,
+                    "endOffset": 1413
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2092,
+                        "endColumn": 43,
+                        "endOffset": 2131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1418,
+                    "endColumn": 44,
+                    "endOffset": 1458
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 44,
+                        "endOffset": 2403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1463,
+                    "endColumn": 45,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2226,
+                        "endColumn": 45,
+                        "endOffset": 2267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 45,
+                    "endOffset": 1550
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endColumn": 45,
+                        "endOffset": 2221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1555,
+                    "endColumn": 43,
+                    "endOffset": 1594
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2136,
+                        "endColumn": 43,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1599,
+                    "endColumn": 45,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2272,
+                        "endColumn": 45,
+                        "endOffset": 2313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endColumn": 44,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2318,
+                        "endColumn": 44,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1690,
+                    "endColumn": 43,
+                    "endOffset": 1729
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 43,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1734,
+                    "endColumn": 46,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 46,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endColumn": 56,
+                    "endOffset": 1833
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 56,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1838,
+                    "endColumn": 54,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 54,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endColumn": 54,
+                    "endOffset": 1943
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 54,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1948,
+                    "endColumn": 54,
+                    "endOffset": 1998
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 54,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2003,
+                    "endColumn": 56,
+                    "endOffset": 2055
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 56,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2060,
+                    "endColumn": 41,
+                    "endOffset": 2097
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 41,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2102,
+                    "endColumn": 39,
+                    "endOffset": 2137
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 655,
+                        "endColumn": 39,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2142,
+                    "endColumn": 40,
+                    "endOffset": 2178
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 40,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2183,
+                    "endColumn": 38,
+                    "endOffset": 2217
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 38,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2222,
+                    "endColumn": 46,
+                    "endOffset": 2264
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1831,
+                        "endColumn": 46,
+                        "endOffset": 1873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2269,
+                    "endColumn": 50,
+                    "endOffset": 2315
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1446,
+                        "endColumn": 50,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2320,
+                    "endColumn": 46,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1596,
+                        "endColumn": 46,
+                        "endOffset": 1638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 45,
+                    "endOffset": 2408
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1691,
+                        "endColumn": 45,
+                        "endOffset": 1732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2413,
+                    "endColumn": 49,
+                    "endOffset": 2458
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1546,
+                        "endColumn": 49,
+                        "endOffset": 1591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2463,
+                    "endColumn": 48,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 48,
+                        "endOffset": 1541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2512,
+                    "endColumn": 46,
+                    "endOffset": 2554
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 46,
+                        "endOffset": 1826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2559,
+                    "endColumn": 46,
+                    "endOffset": 2601
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1737,
+                        "endColumn": 46,
+                        "endOffset": 1779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2606,
+                    "endColumn": 47,
+                    "endOffset": 2649
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1643,
+                        "endColumn": 47,
+                        "endOffset": 1686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2654,
+                    "endColumn": 49,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1323,
+                        "endColumn": 49,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endColumn": 51,
+                    "endOffset": 2751
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 51,
+                        "endOffset": 1420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2756,
+                    "endColumn": 40,
+                    "endOffset": 2792
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endColumn": 40,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2797,
+                    "endColumn": 42,
+                    "endOffset": 2835
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 42,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2840,
+                    "endColumn": 46,
+                    "endOffset": 2882
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 46,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2887,
+                    "endColumn": 47,
+                    "endOffset": 2930
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 47,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2935,
+                    "endColumn": 54,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1966,
+                        "endColumn": 54,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endColumn": 56,
+                    "endOffset": 3042
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2021,
+                        "endColumn": 56,
+                        "endOffset": 2073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3047,
+                    "endColumn": 40,
+                    "endOffset": 3083
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 40,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3088,
+                    "endColumn": 39,
+                    "endOffset": 3123
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 39,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3128,
+                    "endColumn": 62,
+                    "endOffset": 3186
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 62,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3191,
+                    "endColumn": 62,
+                    "endOffset": 3249
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2884,
+                        "endColumn": 62,
+                        "endOffset": 2942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3254,
+                    "endColumn": 66,
+                    "endOffset": 3316
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2676,
+                        "endColumn": 66,
+                        "endOffset": 2738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3321,
+                    "endColumn": 75,
+                    "endOffset": 3392
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2743,
+                        "endColumn": 75,
+                        "endOffset": 2814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3397,
+                    "endColumn": 64,
+                    "endOffset": 3457
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2819,
+                        "endColumn": 64,
+                        "endOffset": 2879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3462,
+                    "endColumn": 68,
+                    "endOffset": 3526
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2475,
+                        "endColumn": 68,
+                        "endOffset": 2539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3531,
+                    "endColumn": 58,
+                    "endOffset": 3585
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 58,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3590,
+                    "endColumn": 66,
+                    "endOffset": 3652
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2408,
+                        "endColumn": 66,
+                        "endOffset": 2470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3657,
+                    "endColumn": 66,
+                    "endOffset": 3719
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1878,
+                        "endColumn": 66,
+                        "endOffset": 1940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3724,
+                    "endColumn": 64,
+                    "endOffset": 3784
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2544,
+                        "endColumn": 64,
+                        "endOffset": 2604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3789,
+                    "endColumn": 66,
+                    "endOffset": 3851
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2609,
+                        "endColumn": 66,
+                        "endOffset": 2671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3856,
+                    "endColumn": 40,
+                    "endOffset": 3892
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 40,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3897,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 4023
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4028,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3953,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 4318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 4854
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 5346,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 5815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4859,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 5292
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 5823,
+                        "endLine": 127,
+                        "endColumn": 12,
+                        "endOffset": 6262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5297,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 5760
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4352,
+                        "endLine": 101,
+                        "endColumn": 12,
+                        "endOffset": 4822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5765,
+                    "endLine": 113,
+                    "endColumn": 12,
+                    "endOffset": 6240
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4830,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 5312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6245,
+                    "endLine": 129,
+                    "endColumn": 12,
+                    "endOffset": 7114
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 7119,
+                    "endLine": 132,
+                    "endColumn": 12,
+                    "endOffset": 7244
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 7249,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 7468
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7473,
+                    "endLine": 140,
+                    "endColumn": 12,
+                    "endOffset": 7598
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7603,
+                    "endLine": 145,
+                    "endColumn": 12,
+                    "endOffset": 7822
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7827,
+                    "endLine": 153,
+                    "endColumn": 12,
+                    "endOffset": 8257
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1997,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 8262,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 8874
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2471,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 3093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8879,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 9387
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3130,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 3646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 9392,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 9628
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3654,
+                        "endLine": 83,
+                        "endColumn": 12,
+                        "endOffset": 3906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9633,
+                    "endLine": 182,
+                    "endColumn": 12,
+                    "endOffset": 9831
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 6288,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 6489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 9836,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 10048
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 6518,
+                        "endLine": 138,
+                        "endColumn": 12,
+                        "endOffset": 6733
+                    }
+                }
+            }
+        ]
+    }
+]

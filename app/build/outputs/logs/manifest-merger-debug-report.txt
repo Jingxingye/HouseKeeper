@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:2:1-117:12
+	package
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:18:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:19:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:20:5-70
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:20:19-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:26:22-66
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:28:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:30:22-78
+application
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:32:5-115:19
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:36:9-41
+	android:allowBackup
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:34:9-35
+	android:icon
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:35:9-45
+	android:theme
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:37:9-62
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:33:9-65
+activity#edu.feicui.app.phone.activity.LeadActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:39:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:44:27-74
+activity#edu.feicui.app.phone.activity.LogoActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:47:9-51:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:49:13-45
+	android:noHistory
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:48:13-70
+activity#edu.feicui.app.phone.activity.HomeActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:52:9-61:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:54:13-45
+	android:launchMode
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:53:13-70
+intent-filter#android.intent.category.DEFAULT+com.androidy.app.phone
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:56:13-60:29
+action#com.androidy.app.phone
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:57:17-65
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:57:25-62
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:59:27-73
+activity#edu.feicui.app.phone.activity.SettingActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:62:9-66:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:64:13-45
+	android:launchMode
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:65:13-44
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:63:13-73
+activity#edu.feicui.app.phone.activity.SoftmgrActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:67:9-71:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:69:13-45
+	android:launchMode
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:68:13-73
+activity#edu.feicui.app.phone.activity.AboutActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:74:13-45
+	android:noHistory
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:73:13-71
+activity#edu.feicui.app.phone.activity.SpeedupActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:77:9-80:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:79:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:78:13-73
+activity#edu.feicui.app.phone.activity.SoftmgrAppshowActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:81:9-84:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:83:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:82:13-80
+activity#edu.feicui.app.phone.activity.PhonemgrActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:85:9-88:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:87:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:86:13-74
+activity#edu.feicui.app.phone.activity.TelmgrActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:89:9-92:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:90:13-72
+activity#edu.feicui.app.phone.activity.TelmgrShowActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:93:9-96:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:95:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:94:13-76
+activity#edu.feicui.app.phone.activity.FilemgrActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:97:9-100:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:98:13-73
+activity#edu.feicui.app.phone.activity.FilemgrShowActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:101:9-104:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:103:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:102:13-77
+activity#edu.feicui.app.phone.activity.ClearActivity
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:105:9-108:20
+	android:label
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:107:13-45
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:106:13-71
+receiver#com.androide.app.base.REBootReceiver
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:110:9-114:20
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:110:19-70
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:111:13-113:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:112:17-79
+	android:name
+		ADDED from C:\Users\11933\AndroidStudioProjects\HouseKeeper\app\src\main\AndroidManifest.xml:112:25-76

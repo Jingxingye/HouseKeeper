@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_showapp_listitem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_showapp_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_telmgr.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_telmgr.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lead.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_lead.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_softmgr_spacemem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_softmgr_spacemem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_softmgr.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_softmgr.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_speedup.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_speedup.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_telmgrshow.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_telmgrshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filemgr.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_filemgr.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_speedup_show.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_speedup_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonemgrshowapp.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_phonemgrshowapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_lead_item.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_lead_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_softmgr_listitem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_softmgr_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_upimgdowntext.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_upimgdowntext.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_notification_appincon.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_notification_appincon.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_homeitem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_homeitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_rubbishfile_listitem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_rubbishfile_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_homescore.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_homescore.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_speedup_listitem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_speedup_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_filemgr_list.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_filemgr_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_setting_list.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_setting_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filemgrshow.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_filemgrshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_filemgl_listitem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_filemgl_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tellist_listitem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_tellist_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_telclasslist_griditem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_telclasslist_griditem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clear.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_actionbar.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_phonemgr_listitem.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_phonemgr_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonemgr.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\activity_phonemgr.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_listview.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\layout\\layout_listview.xml"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_rect_correct_default.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\check_rect_correct_default.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_rocket.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\icon_rocket.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_rect_correct_checked.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\check_rect_correct_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_information_progress_bg.9.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_version.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_version.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_child_configs.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\ic_child_configs.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_root.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_root.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_information_progress_green.9.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_green.9.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_camera.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_cpu.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_cpu.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_phonemgr.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\icon_phonemgr.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_information_progress_yellow.9.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_yellow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_score_bg.xml",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\home_score_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_filemgr.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\icon_filemgr.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_information_progress_red.9.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_switch_on.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\check_switch_on.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_check_progress_bg.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\ic_check_progress_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_telmgr.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\icon_telmgr.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_space.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_space.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_score_normal_bg.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\home_score_normal_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_softmgr.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\icon_softmgr.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_sdclean.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\icon_sdclean.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_score_pressed_bg.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\home_score_pressed_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_switch_off.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\check_switch_off.png"
+    },
+    {
+        "merged": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\11933\\AndroidStudioProjects\\HouseKeeper\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
